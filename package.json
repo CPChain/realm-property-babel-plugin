@@ -1,6 +1,6 @@
 {
-  "name": "realm-property-babel-plugin",
-  "version": "1.0.0",
+  "name": "@cpchain-tools/realm-property-babel-plugin",
+  "version": "0.0.1",
   "description": "Extend properties for realm-js",
   "main": "index.js",
   "scripts": {
