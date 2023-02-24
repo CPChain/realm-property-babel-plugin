@@ -1,0 +1,22 @@
+{
+  "name": "realm-property-babel-plugin",
+  "version": "1.0.0",
+  "description": "Extend properties for realm-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CPChain/realm-property-babel-plugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CPChain/realm-property-babel-plugin/issues"
+  },
+  "homepage": "https://github.com/CPChain/realm-property-babel-plugin#readme",
+  "devDependencies": {
+    "@babel/core": "^7.21.0"
+  }
+}
